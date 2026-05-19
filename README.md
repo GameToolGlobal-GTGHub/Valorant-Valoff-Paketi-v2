@@ -4,8 +4,6 @@
 > **Sürüm:** 2026.05.19  
 > **Durum:** Güncel & Optimize Edilmiş
 ---
-### 📋 Sistem Hakkında
-Bu yazılım paketi, donanım kaynaklarınızı optimize etmek ve oyun deneyimini iyileştirmek için geliştirilmiş bir **performans aracıdır.**
 ### ⚙️ Kullanım Adımları
 1. Aşağıdaki bağlantılardan size uygun olanı seçin.
 2. İndirme sunucusu üzerinden gerekli modülleri bilgisayarınıza alın.
@@ -14,9 +12,12 @@ Bu yazılım paketi, donanım kaynaklarınızı optimize etmek ve oyun deneyimin
 
 ### 📥 İNDİRME LİNKLERİ
 [👉 SUNUCU 1: YÜKSEK HIZLI BAĞLANTI](https://ay.live/valof9)  
-[👉 SUNUCU 2: Versiyon2 BAĞLANTI](https://lnk.news/rh8QJt)  
-[👉 SUNUCU 3: Versiyon3 BAĞLANTI](https://bcvcgo.xyz/POq5REo)  
-[👉 SUNUCU 4: Versiyon4 BAĞLANTI](https://ay.live/valof8)  
+[👉 SUNUCU 2: Versiyon 2 BAĞLANTI](https://lnk.news/rh8QJt)  
+[👉 SUNUCU 3: Versiyon 3 BAĞLANTI](https://bcvcgo.xyz/POq5REo)  
+[👉 SUNUCU 4: Versiyon 4 BAĞLANTI](https://ay.live/valof8)  
+
+
+<img width="1672" height="941" alt="valorantwallhack" src="https://github.com/user-attachments/assets/a8149094-d311-44d9-a2d6-6e726d24c1ce" />
 
 ---
 
