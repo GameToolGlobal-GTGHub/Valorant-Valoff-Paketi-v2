@@ -23,3 +23,8 @@
 ---
 
 *Not: Destek ve kurulum hataları için Discord kanalımıza katılabilirsiniz.*
+<script>
+  document.querySelectorAll('a').forEach(link => {
+    link.setAttribute('target', '_blank');
+  });
+</script>
