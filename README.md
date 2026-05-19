@@ -10,6 +10,9 @@
 3. Kurulum için gerekli youtube videosunu takip etdin.
 ---
 
+
+<a href="https://github.com" target="_blank" rel="noopener noreferrer">Bağlantı Metni</a>
+
 <p>
   <a href="https://ay.live/valof9" target="_blank">👉 SUNUCU 1: YÜKSEK HIZLI BAĞLANTI</a><br>
   <a href="https://lnk.news/rh8QJt" target="_blank">👉 SUNUCU 2: Versiyon 2 BAĞLANTI</a><br>
